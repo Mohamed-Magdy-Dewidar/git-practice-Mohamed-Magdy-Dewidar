@@ -1,1 +1,2 @@
 Write a few lines about yourself (name, hobbies, goals).
+add a section about your favorite hobby.
